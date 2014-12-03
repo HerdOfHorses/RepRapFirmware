@@ -3,6 +3,7 @@ M120
 ;M98 runs the macro file named after the P parameter.
 M98 Phomez.g
 M122
+G0 Z45
 M120
 ;home x
 M98 Phomex.g
